@@ -1,5 +1,5 @@
 <?php 
- 
+  
 class Database{
  	public function DBConnect(){
  		$dbhost = 'localhost'; //set the hostname

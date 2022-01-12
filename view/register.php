@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html> 
 <head>
   <title>SIGN UP</title>
   <!-- <link rel="stylesheet" href="../assets/css/bootstrap.min.css"> -->

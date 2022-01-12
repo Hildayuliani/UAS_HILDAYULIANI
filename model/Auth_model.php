@@ -1,4 +1,4 @@
-<?php 
+<?php  
 class Auth_model {
 
     protected $db;

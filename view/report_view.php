@@ -1,6 +1,6 @@
 <?php
 include '../controller/Pasien.php';
-
+  
 $ctrl = new Pasien();
 $hasil = $ctrl->index();
 

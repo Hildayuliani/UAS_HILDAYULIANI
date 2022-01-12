@@ -1,4 +1,4 @@
-<!-- <?php
+<!-- <?php 
 include '../controller/Auth.php';
 $ctrl = new Auth();
 //mengaktifkan session

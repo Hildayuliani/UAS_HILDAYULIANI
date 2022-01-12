@@ -3,7 +3,7 @@ include '../controller/Auth.php';
 
 $ctrl = new Auth();
 
-?>
+?> 
 
 <?php
     // session start();

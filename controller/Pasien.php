@@ -1,4 +1,4 @@
-<?php
+<?php 
 //panggil file\
 	include '../Database.php';
 	include '../model/Pasien_model.php';
