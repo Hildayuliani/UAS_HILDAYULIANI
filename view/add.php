@@ -1,4 +1,4 @@
-<?php
+<?php 
 error_reporting(0);
 //Buat Koneksinya
 // $con = new mysqli("localhost","root", "","pasien_hilda");
