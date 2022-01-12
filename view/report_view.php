@@ -74,7 +74,7 @@ $hasil = $ctrl->index();
     <td><?php echo $isi['nama_dokter'];?></td>
     <td><?php echo $js;?></td>
   </tr>
-  <div class="example-modal">
+  <!-- <div class="example-modal">
     <div id="deletesurat<?php echo $isi ['id'];?>" class="modal fade" role="dialog" style="display: none;">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -95,7 +95,7 @@ $hasil = $ctrl->index();
           </div>
         </div>
       </div>
-     </div>
+     </div> -->
 
   <?php
   }
