@@ -55,11 +55,11 @@ $ctrl = new Auth();
                             <label>Your password</label>
                             <input name="pass" class="form-control" placeholder="******" type="password" required="required" autocomplete="off">
                         </div> <!-- form-group// --> 
-                        <!-- <div>
+                       <div>
     <td><img src="captcha.php" alt="gambar" /> </td>
             </tr>
             <td><input name="code" value="" maxlength="5" placeholder="isikan Captcha"/></td>
-    </div>  -->
+    </div>  
     <br>
                         <div class="form-group">
                             <button type="submit" name="login" class="btn btn-primary btn-block"> Login  </button>

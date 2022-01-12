@@ -39,7 +39,7 @@ function __construct(){
 	}
 }
 
-	/*function acakCaptcha() {
+	function acakCaptcha() {
     $alphabet = "abcdefghijklmnopqrstuwxyzABCDEFGHIJKLMNOPQRSTUWXYZ0123456789";
    
 //untuk menyatakan $pass sebagai array
@@ -50,13 +50,13 @@ $pass = array();
     for ($i = 0; $i < 5; $i++) {
         $n = rand(0, $panjangAlpha);
         $pass[] = $alphabet[$n];
-    }
+    } 
  
    //ubah array menjadi string
     return implode($pass); 
-}*/
+}
 
 }
-?>
+
 
 

@@ -1,4 +1,4 @@
-<!-- <?php 
+<?php 
 include '../controller/Auth.php';
 $ctrl = new Auth();
 //mengaktifkan session
@@ -23,4 +23,4 @@ imagestring($wh, 10,50, 15, $code, $fc);
 header("content-type: image/jpg");
 imagejpeg($wh);
 imagedestroy($wh);
-?> -->
+?>
